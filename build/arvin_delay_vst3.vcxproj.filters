@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\ARVIN_DELAY_FXprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\ARVIN_DELAY_FXcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\ARVIN_DELAY_FXentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\ARVIN_DELAY_FXcids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\ARVIN_DELAY_FXprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\source\ARVIN_DELAY_FXcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\resource\ARVIN_DELAY_FXeditor.uidesc" />
+    <CustomBuild Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\resource\9169991D1CF554B8ADE7BA48AE2D7D4B_snapshot.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\resource\9169991D1CF554B8ADE7BA48AE2D7D4B_snapshot_2.0x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\projects\github\arvin-delay-vst3\arvin-delay-vst3\resource\win32resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76C0A6CC-9D93-3235-87F5-8523461001EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{1F2BF264-49F0-3D6E-A65E-24E60D804466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7D43177C-ECAB-3B5A-97C0-02E960C9C1E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
